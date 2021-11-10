@@ -1,0 +1,24 @@
+div{
+    width: 50%;
+    text-align: center;
+    font-size: 2.5em;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.c1{
+    background-color: #31EB4A;
+}
+
+.c2{
+    background-color: #6080EB;
+}
+
+.c3{
+    background-color: #EB3162;
+}
+
+.c4{
+    background-color: #EBBC3D;
+}
